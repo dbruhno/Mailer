@@ -1,0 +1,5 @@
+d:\docs\documents\visual studio 2010\Projects\Mailer\Mailer\bin\Debug\Mailer.exe
+d:\docs\documents\visual studio 2010\Projects\Mailer\Mailer\bin\Debug\Mailer.pdb
+d:\docs\documents\visual studio 2010\Projects\Mailer\Mailer\obj\x86\Debug\Mailer.exe
+d:\docs\documents\visual studio 2010\Projects\Mailer\Mailer\obj\x86\Debug\Mailer.pdb
+D:\Docs\Documents\Visual Studio 2010\Projects\Mailer\Mailer\obj\x86\Debug\Mailer.csprojResolveAssemblyReference.cache
